@@ -2,7 +2,9 @@
  * ADOLPHE Benjamin 22008346
  * LAURET Nicolas 22002804
  * */
-package exercice1;
+package exercice2;
+
+import exercice1.Rectangle;
 
 //Move Carre to another file (Move type to new file)
 class Carre extends Rectangle {
