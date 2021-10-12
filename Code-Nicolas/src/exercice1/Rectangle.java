@@ -35,6 +35,7 @@ public class Rectangle {
 	}
 }
 
+// TODO Move Carre to another file (Move type to new file)
 class Carre extends Rectangle {
 
 	public Carre(int longueur) {
