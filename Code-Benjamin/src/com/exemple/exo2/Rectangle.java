@@ -2,7 +2,7 @@
  * ADOLPHE Benjamin 22008346
  * LAURET Nicolas 22002804
  * */
-package com.exemple.exo1;
+package com.exemple.exo2;
 
 public class Rectangle {
     //TODO Spécialisation de Polygone
