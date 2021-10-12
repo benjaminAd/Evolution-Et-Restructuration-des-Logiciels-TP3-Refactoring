@@ -1,4 +1,4 @@
-package onebyone;
+package extract.onebyone;
 class ListeTableau implements IListeTableau{
     @Override
 	public boolean add(Object o) {return true;}

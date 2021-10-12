@@ -1,4 +1,4 @@
-package onebyone;
+package extract.onebyone;
 
 interface IListeTableau {
 

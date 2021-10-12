@@ -1,6 +1,6 @@
-package onebyone;
+package extract.onebyone;
 
-interface IQueueDoubleEntree {
+interface IQueueAvecPriorite {
 
 	boolean add(Object o);
 
@@ -9,5 +9,7 @@ interface IQueueDoubleEntree {
 	Object peek();
 
 	Object poll();
+
+	Object comparator();
 
 }
